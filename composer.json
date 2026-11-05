@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-product-information-management-filament",
+  "description": "Product Information Management Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capability69fbb9af4c69\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-product-information-management-filament"
+    }
+  }
+}

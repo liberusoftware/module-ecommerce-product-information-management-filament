@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-product-information-management-filament",
+  "capabilityKey": "planned:ecommerce:product-information-management",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-product-information-management-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/product-information-management.md",
+  "presentationPlan": "projects/ecommerce/filament/product-information-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
